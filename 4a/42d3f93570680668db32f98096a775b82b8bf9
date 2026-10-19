@@ -1,0 +1,14 @@
+.gitignore
+  h_1dadfcb62c121b 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a42d3f93570680668db32f98096a775b82b8bf9",
+  "prompts": {},
+  "humans": {
+    "h_1dadfcb62c121b": {
+      "author": "Balazs Nemeth <balazs.nemeth@vonage.com>"
+    }
+  }
+}
