@@ -1,0 +1,32 @@
+packages/voice/__tests__/__dataSets__/create.ts
+  s_1fda4e605ea26e::t_68818dbb6c526c 613-752
+packages/voice/lib/types/NCCO/ConnectAction.ts
+  s_1fda4e605ea26e::t_b1864c86d7645b 7
+packages/voice/lib/classes/NCCO/Connect.ts
+  s_1fda4e605ea26e::t_cbbf0ac29c591d 124
+packages/voice/lib/types/AdvancedMachineDetection.ts
+  s_1fda4e605ea26e::t_f5549af64f7af4 26-30
+packages/voice/__tests__/ncco.test.ts
+  s_1fda4e605ea26e::t_cca73b513814a8 2-3,6
+  s_1fda4e605ea26e::t_e951b6faa4ea7f 144-146,153,155-162
+  s_1fda4e605ea26e::t_432f2bad6e6746 141-143
+  s_1fda4e605ea26e::t_d4cfdc31d83061 147-152
+  s_1fda4e605ea26e::t_ba8257bf14e8c0 154
+  s_1fda4e605ea26e::t_3d75197d371d4f 163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a2481d4a2def4233604dccf69fd04ff2c61756c1",
+  "prompts": {},
+  "sessions": {
+    "s_1fda4e605ea26e": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_88e16ea3-7eab-463d-b453-0da9abdad42e",
+        "model": "auto"
+      },
+      "human_author": null
+    }
+  }
+}
