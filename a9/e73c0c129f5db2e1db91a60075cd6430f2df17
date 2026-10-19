@@ -1,0 +1,14 @@
+packages/voice/__tests__/ncco.test.ts
+  h_1dadfcb62c121b 125-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a9e73c0c129f5db2e1db91a60075cd6430f2df17",
+  "prompts": {},
+  "humans": {
+    "h_1dadfcb62c121b": {
+      "author": "Balazs Nemeth <balazs.nemeth@vonage.com>"
+    }
+  }
+}
